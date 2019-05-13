@@ -1,6 +1,10 @@
 # lookhere-romans
 
-### This is a project for a class: Museum Studies and Interactive Technologies [NYU, Spring 2019]
+### This is a project for a class: Museums and Interactive Technologies [NYU, Spring 2019]
+
+We worked together with *Sondra Phifer*, a student from the class to create 'Look Here'. 
+
+###### This is her description of her idea for the application: 
 
 Every museum wrestles with the question of how can they share enough information about their objects with their visitors. On one hand, curators choose a selective group of works for display. These objects tend to have long descriptive gallery labels, filled with curator jargon and loan/provenance identifiers. This information is wonderful for specialists, but often off-putting or overwhelming to students and novices. At the other hand, there are many objects with bare labels, sometimes with only a title and accession number. Many historic artworks barely receive a glimpse because visitors simply don’t know what they are looking at. Museums have been relying on instructors, docents, and online collections to bridge the informational gap.   
  
