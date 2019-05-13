@@ -2,7 +2,10 @@
 
 ### This is a project for a class: Museums and Interactive Technologies [NYU, Spring 2019]
 
-We worked together with **Sondra Phifer**, a student from the class to create 'Look Here'. 
+We worked together with **Sondra Phifer**, a student from the class to create 'Look Here'.
+
+![About](/img-doc/about)
+Format: ![Alt Text](url)
 
 #### This is her description of her idea for the application: 
 
