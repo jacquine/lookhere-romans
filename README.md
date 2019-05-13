@@ -5,7 +5,7 @@
 We worked together with **Sondra Phifer**, a student from the class to create 'Look Here'.
 
 ![About](/img-doc/about.png)
-![Main](/img-doc/lookhere)
+![Main](/img-doc/lookhere.png)
 
 
 #### This is her description of her idea for the application: 
