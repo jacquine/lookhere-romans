@@ -4,8 +4,8 @@
 
 We worked together with **Sondra Phifer**, a student from the class to create 'Look Here'.
 
-![About](/img-doc/about)
-Format: ![Alt Text](url)
+![About](/img-doc/about.png)
+
 
 #### This is her description of her idea for the application: 
 
