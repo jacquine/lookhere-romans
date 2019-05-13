@@ -4,8 +4,8 @@
 
 We worked together with **Sondra Phifer**, a student from the class to create 'Look Here'.
 
-![MainPage] (/img-doc/lookhere.png)
 ![About](/img-doc/about.png)
+![MainPage] (/img-doc/lookhere.png)
 
 
 #### This is her description of her idea for the application: 
